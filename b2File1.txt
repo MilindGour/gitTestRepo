@@ -1,0 +1,2 @@
+This is the content of b2File1.
+This is second line.
